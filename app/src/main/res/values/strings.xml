@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hangman-Android (戴峰)</string>
+
+    <string name="action_new_game">New Game</string>
+    <string name="action_next_word">Next word</string>
+    <string name="action_submit_score">Submit score</string>
+</resources>
